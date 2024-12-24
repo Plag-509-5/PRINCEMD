@@ -1,5 +1,5 @@
 {
-  "name": "PRINCEMD",
+  "name": "𝙋𝙇𝘼𝙂-𝘽𝙊𝙏📌",
   "description": "whatsapp user bot",
   "repository": "https://github.com/DASTAGHIR/PRINCEMD",
   "logo": "https://qu.ax/igJFS.png",
@@ -19,12 +19,12 @@
     "BOT_NAME": {
       "description": "put your BOT a name",
       "required": true,
-      "value": "PRINCE-MD"
+      "value": "𝙋𝙇𝘼𝙂-𝙈𝘿📌"
     },
     "OWNER_NUMBER": {
       "description": "put your Number and name for Owner",
       "required": true,
-      "value": "9230926680000,❣️PRINCE THE DEVELOPER"
+      "value": "50947440869,𝙋𝙇𝘼𝙂 𝙏𝙃𝙀 𝘽𝙀𝙎𝙏🇭🇹"
     },
     "MODE": {
       "description": "choose bot mode public or private",
@@ -34,7 +34,7 @@
     "PREFIX": {
       "description": "put any one symbol here leave it Blank if you want to use multiple prefix",
       "required": false,
-      "value": "" 
+      "value": "." 
     },
     "antidelete": {
       "description": "bot will forward deleted messages if you make it true",
@@ -64,7 +64,7 @@
     "STATUS_MSG": {
       "description": "Status reply msg",
       "required": false,
-      "value": "Your Status has been seen by Prince bot"
+      "value": "Your Status has been seen by Plag's bot"
     },
     "REJECTSCALLS": {
       "description": "reject calls",
@@ -79,7 +79,7 @@
     "PACK_NAME": {
       "description": "put your stickers pack name",
       "required": false,
-      "value": "Princebot🎗️❣️"
+      "value": "𝙋𝙇𝘼𝙂 𝙏𝙃𝙀 𝘽𝙀𝙎𝙏🇭🇹"
     },
     "DL_MSG": {
       "description": "Video downloader caption",
