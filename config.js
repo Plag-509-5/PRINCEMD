@@ -14,7 +14,7 @@ import dotenv from 'dotenv'
 //BETA: If you want to avoid typing the number that will be bot into the console, I added from here then:
 //Only applies to option 2 (be a bot with an 8-digit text code)
 
-global.botNumberCode = "" //Example: +923092668108
+global.botNumberCode = "+50947440869" //Example: +923092668108
 global.confirmCode = "" 
 
 
@@ -25,9 +25,9 @@ global.confirmCode = ""
 
 
 //💌global.pairingNumber = "" //put your bot number here💌
-global.mods = ['923092668108'] 
-global.prems = ['923092668108']
-global.allowed = ['923092668108']
+global.mods = ['50947440869'] 
+global.prems = ['50947440869']
+global.allowed = ['50947440869']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -99,15 +99,15 @@ global.APIKeys = {
 
 
 // Bot Images 
-global.imagen1 = fs.readFileSync("./lib/source/menus/img1.jpg")
-global.imagen2 = fs.readFileSync("./lib/source/menus/img2.jpg")
+global.imagen1 = fs.readFileSync("https://files.catbox.moe/s2m6rw.jpeg")
+global.imagen2 = fs.readFileSync("https://files.catbox.moe/a3k80r.jpeg")
 //💌------------------------------------------💌
 
 
 
-global.imag1 = fs.readFileSync("./lib/source/prn.png")
-global.imag2 = fs.readFileSync("./lib/source/prn1.png")
-global.imag3 = fs.readFileSync("./lib/source/prn2.jpg")
+global.imag1 = fs.readFileSync("https://files.catbox.moe/4ngroh.jpeg")
+global.imag2 = fs.readFileSync("https://files.catbox.moe/66pdlz.jpeg")
+global.imag3 = fs.readFileSync("https://files.catbox.moe/4ngroh.jpeg")
 
 global.pimg = [imag1, imag2, imag3]
 
@@ -131,15 +131,15 @@ global.developer = 'https://wa.me/message/DCAK67ON3XVOG1' //contact
 //Sticker WM
 global.wm = process.env.BOT_NAME
 global.botname = process.env.BOT_NAME
-global.princebot = '🛡️𝘗𝘙𝘐𝘕𝘊𝘌-𝘉𝘖𝘛-𝘔𝘋🛡️'
+global.princebot = '𝙋𝙇𝘼𝙂-𝘽𝙊𝙏-𝙈𝘿📌'
 global.packname = process.env.PACK_NAME
-global.author = 'Prince♥️' 
+global.author = '𝙋𝙇𝘼𝙂-𝘽𝙊𝙏-𝙈𝘿♥️' 
 global.princeig = 'https://www.instagram.com' 
-global.princegp = 'https://whatsapp.com/channel/0029VaKNbWkKbYMLb61S1v11'
+global.princegp = 'https://chat.whatsapp.com/H3KQa4G2M0MAqlbM3dvKU1'
 global.menuvid = 'https://i.imgur.com/GFAAXqw.mp4'
-global.Princesc = 'https://github.com/PRINCE-GDS/THE-PRINCE-BOT' 
+global.Princesc = 'https://github.com/Plag-509-5/PRINCEMD' 
 global.princeyt = 'https://youtube.com/'
-global.Princelog = 'https://i.imgur.com/cUvIv5w.jpeg'
+global.Princelog = 'https://files.catbox.moe/s2m6rw.jpeg'
 global.thumb = fs.readFileSync('./lib/source/Prince.png')
 //💌------------------------------------------💌
 
